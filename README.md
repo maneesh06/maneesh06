@@ -15,8 +15,8 @@ I believe that there is always something to learn, and with AI rapid pace, there
 * ⚡ Fun fact: I can work whole day without Tea
 
 
-[![Linkedin logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WXFyk7qK_5CEMl_4bUaUshC8KkNE-BwTeJ6IPh3d4RfYiLpj&usqp=CAU)](https://www.linkedin.com/in/maneesh06) 
-[![gmail logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwW10AuNcKGM49JJUzAsV-XwNu3HQPuezRZu7Hf8&usqp=CAU)](maneesh06072000@gmal.com)
-[![kaggle logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkthccQ16aA9YC8_NzM-7OyQqCAo70NNiLtvTajg&usqp=CAU)](https://www.kaggle.com/maneesh99)
+[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WXFyk7qK_5CEMl_4bUaUshC8KkNE-BwTeJ6IPh3d4RfYiLpj&usqp=CAU){:height="700px" width="400px"}](https://www.linkedin.com/in/maneesh06)
+[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwW10AuNcKGM49JJUzAsV-XwNu3HQPuezRZu7Hf8&usqp=CAU)](maneesh06072000@gmal.com)
+[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkthccQ16aA9YC8_NzM-7OyQqCAo70NNiLtvTajg&usqp=CAU)](https://www.kaggle.com/maneesh99)
 
 
