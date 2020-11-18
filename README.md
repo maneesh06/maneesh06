@@ -1,3 +1,7 @@
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WXFyk7qK_5CEMl_4bUaUshC8KkNE-BwTeJ6IPh3d4RfYiLpj&usqp=CAU" width="30" height="30">](https://www.linkedin.com/in/maneesh06)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwW10AuNcKGM49JJUzAsV-XwNu3HQPuezRZu7Hf8&usqp=CAU" width="30" height="30">)](maneesh06072000@gmal.com)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkthccQ16aA9YC8_NzM-7OyQqCAo70NNiLtvTajg&usqp=CAU" width="30" height="30">](https://www.kaggle.com/maneesh99)
+
 ### Hi there 👋
 
 I am Maneesh, pursuing B.Tech in Electronics and Communication. I am passionate about technology and in its advancement for the betterment of the society. I am a self-taught Machine learning and Deep Learning passionate. Now working some different and advance project of Artificial Intelligence and Machine Learning.
@@ -15,8 +19,6 @@ I believe that there is always something to learn, and with AI rapid pace, there
 * ⚡ Fun fact: I can work whole day without Tea
 
 
-[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8WXFyk7qK_5CEMl_4bUaUshC8KkNE-BwTeJ6IPh3d4RfYiLpj&usqp=CAU)](https://www.linkedin.com/in/maneesh06)
-[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwW10AuNcKGM49JJUzAsV-XwNu3HQPuezRZu7Hf8&usqp=CAU)](maneesh06072000@gmal.com)
-[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkthccQ16aA9YC8_NzM-7OyQqCAo70NNiLtvTajg&usqp=CAU)](https://www.kaggle.com/maneesh99)
+
 
 
