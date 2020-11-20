@@ -16,6 +16,9 @@
 <a href="https://www.instagram.com/maneesh0607">
   <img align="left" alt="Maneesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="maneesh06072000@gmail.com">
+  <img align="left" alt="Maneesh's mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 
 <br>
