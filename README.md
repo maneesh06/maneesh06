@@ -4,6 +4,9 @@
 <a href="https://discord.gg/eVAvjn5v">
   <img align="left" alt="Maneesh's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
+<a href="https://www.kaggle.com/maneesh99">
+  <img align="left" alt="Maneesh's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+</a>
 <a href="https://twitter.com/Maneesh17435901">
   <img align="left" alt="Maneesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -13,9 +16,7 @@
 <a href="https://www.instagram.com/maneesh0607">
   <img align="left" alt="Maneesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.kaggle.com/maneesh99">
-  <img align="left" alt="Maneesh's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
-</a>
+
 
 <br>
 <br />
