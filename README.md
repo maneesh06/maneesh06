@@ -1,7 +1,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://discord.gg/eVAvjn5v">
+<a href="https://discord.gg/FJK4zuHtrm">
   <img align="left" alt="Maneesh's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://www.kaggle.com/maneesh99">
