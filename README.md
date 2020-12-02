@@ -50,6 +50,10 @@ I believe that there is always something to learn, and with AI rapid pace, there
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat&lSanthoshkumard11ogo=tensorflow&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Keras](https://img.shields.io/badge/-Keras-black?style=flat&logo=keras&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![PyCaret](https://img.shields.io/badge/-PyCaret-black?style=flat&logo=PyCaret&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+
+
+[![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>  
 
 
