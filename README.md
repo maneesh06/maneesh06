@@ -26,7 +26,7 @@
 
 
 
-I'm [Maneesh](https://www.linkedin.com/in/maneesh06), pursuing B.Tech in Electronics and Communication. I am passionate about technology and in its advancement for the betterment of the society. I am a Artificial Intelligence, Machine learning and Deep Learning enthusiast. Now working some different and advance project of Artificial Intelligence and Machine Learning.
+I'm [Maneesh](https://www.linkedin.com/in/maneesh06), pursuing B.Tech in Electronics and Communication. I am passionate about technology and in its advancement for the betterment of the society. I am an Artificial Intelligence, Machine learning and Deep Learning enthusiast. Now working some different and advance project of Artificial Intelligence and Machine Learning.
 
 I believe that there is always something to learn, and with AI rapid pace, there is always something new!. I am always attracted to Technology and its impact on our lives which makes me more passionate and motivates me to learn more from it.
 
