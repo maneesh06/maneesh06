@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="https://github.com/maneesh06/maneesh06/blob/main/readme.gif">
+</p>
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### :rainbow: Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="left"> 
+  <img src=https://komarev.com/ghpvc/?username=maneesh06>
+</p>
 
 <a href="https://discord.gg/FJK4zuHtrm">
   <img align="left" alt="Maneesh's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
