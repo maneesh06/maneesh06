@@ -13,7 +13,7 @@
 <a href="https://www.kaggle.com/maneesh99">
   <img align="left" alt="Maneesh's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
-<a href="https://twitter.com/Maneesh17435901">
+<a href="https://twitter.com/maneesh060">
   <img align="left" alt="Maneesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/maneesh06">
