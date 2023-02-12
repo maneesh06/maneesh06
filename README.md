@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/maneesh06">
   <img align="left" alt="Maneesh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/maneesh0607">
+<a href="https://www.instagram.com/man__ishp">
   <img align="left" alt="Maneesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="maneesh06072000@gmail.com">
